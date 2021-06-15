@@ -24,7 +24,7 @@ The app includes all the markdowns which explain the process.
 * The target variable is the CLOSE price.
 
 ## Summary
-<img src="https://i.imgur.com/6OzPtKu.png" alt="drawing" width="500"/>
+<img src="https://i.imgur.com/AKCaCA3.png" alt="drawing" width="500"/>
 
 <img src="https://i.imgur.com/wxZXae2.png" alt="drawing" width="500"/>
 
